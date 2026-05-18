@@ -1,0 +1,10 @@
+# Output files (large, generated)
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
