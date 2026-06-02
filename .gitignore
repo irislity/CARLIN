@@ -12,3 +12,4 @@ data/hd_6.5mm_bc_list.txt
 data/*.tsv
 data/*.fastq
 data/*.fastq.gz
+spatial_barcode_edit2/results/
